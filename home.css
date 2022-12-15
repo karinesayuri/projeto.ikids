@@ -1,0 +1,37 @@
+.cabecalho{
+	background-color: black;
+    padding: 20px;
+}
+
+.container{
+	background-color: black;
+}
+
+body{
+	background-color: white;
+}
+
+.botao1{
+	color: white;
+	border-radius: black;
+	text-decoration-color: black;
+}
+
+.botao-cor-especial{
+	color: white !important;
+	background-color: blueviolet !important;
+    border: 1px solid blueviolet !important;
+
+}
+
+.navbar-menu-sup{
+	width: 100%;
+}
+
+.botao-centralizado{
+	text-align: center;
+}
+
+h2{
+	color: black;
+}

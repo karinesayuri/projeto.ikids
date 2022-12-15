@@ -1,0 +1,28 @@
+body{
+	background-color: black;
+}
+h1{
+	font-size: 60px;
+}
+
+
+.imagem-ikids{
+	object-fit: cover;
+	object-position: 0 100;
+	height: 500px
+
+
+}
+.corpo-espacado{
+	padding-left: 60px;
+	background-color: black;
+}
+
+.corpo-espacado input{
+	max-width: 300px;
+}
+
+.botao-cor-especial{
+	color: white;
+	background-color: blueviolet;
+}
